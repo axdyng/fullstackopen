@@ -4,12 +4,19 @@
 
 Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
+## Course contents
+
 ### [Part 0: Fundamentals of Web apps](/part0/)
 
-  - General Info
-  - Fundamentals of Web apps
+- General Info
+- Fundamentals of Web apps
 
 ### [Part 1: Introduction to React](/part1/)
+
+- Introduction to React
+- JavaScript
+- Component state, event handlers
+- A more complex state, debugging React apps
 
 ### [Part 2: Communicating with server](/part2/)
 
